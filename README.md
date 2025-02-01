@@ -1,5 +1,6 @@
-# A Basic Web Browser
+# A Very Basic Web Browser
 
+![Screenshot 2025-02-01 at 3 41 24 PM](https://github.com/user-attachments/assets/a3ba2859-9a63-43ae-91d4-c17bfeedab13)
 
 #### Build from source
 #### Prerequisites
